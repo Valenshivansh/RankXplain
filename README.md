@@ -6,7 +6,7 @@
 ![SHAP](https://img.shields.io/badge/SHAP-0.42-yellow)
 
 > **Predict NIRF rankings. Explain *why* IISc tops the list. Simulate improvements.**  
-> A production-grade **ML + XAI + Interactive Analytics** platform
+> A production-grade **ML + XAI + Interactive Analytics** platform.
 
 ---
 
@@ -48,4 +48,5 @@ git clone https://github.com/Valenshivansh/RankXplain.git
 cd RankXplain
 pip install -r requirements.txt
 streamlit run app/streamlit_app.py
+
 
