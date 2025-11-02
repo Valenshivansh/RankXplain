@@ -5,6 +5,7 @@
 
 ---
 
+
 ## 🧠 Project Overview
 This project combines multi-year **NIRF ranking data (2018–2023)** and applies **machine learning** to identify which institutional factors most influence the *Perception (PR)* metric.
 
@@ -55,4 +56,5 @@ These results indicate that around **36%** of the variation in perception scores
 ---
 
 > *"Data reveals the unseen structure behind prestige — this model helps quantify it."*
+
 
