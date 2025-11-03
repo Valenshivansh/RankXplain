@@ -37,7 +37,7 @@ This project combines multi-year **NIRF ranking data (2018–2023)** and applies
 
 ---
 
-## 🧾 Results Summary
+## 🧾 Results Summary 
 | Metric | Value |
 |--------|--------|
 | **R² Score** | ~0.36 |
@@ -56,5 +56,6 @@ These results indicate that around **36%** of the variation in perception scores
 ---
 
 > *"Data reveals the unseen structure behind prestige — this model helps quantify it."*
+
 
 
