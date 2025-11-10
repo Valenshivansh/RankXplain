@@ -11,7 +11,7 @@ This project combines multi-year **NIRF ranking data (2018–2023)** and applies
 
 ### 📊 Core Objectives
 - Combine raw CSV files into one processed dataset  
-- Clean and preprocess the data  
+- Clean and preprocess the data 
 - Engineer new composite features (Faculty, Research, Outreach indices)  
 - Train and evaluate regression models to predict `PR`   
 - Visualize correlations and feature importance  
@@ -56,6 +56,7 @@ These results indicate that around **36%** of the variation in perception scores
 ---
 
 > *"Data reveals the unseen structure behind prestige — this model helps quantify it."*
+
 
 
 
