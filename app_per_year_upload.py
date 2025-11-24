@@ -1,3 +1,4 @@
+# Main code :
 
 # Streamlit app: per-year NIRF dashboard with file upload support + fallback file
 # Requirements: streamlit, pandas, numpy, plotly
